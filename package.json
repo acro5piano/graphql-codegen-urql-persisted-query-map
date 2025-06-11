@@ -1,0 +1,17 @@
+{
+  "name": "graphql-codegen-urql-persisted-query-map",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@graphql-codegen/plugin-helpers": "^5.1.1",
+    "@urql/core": "^5.1.1",
+    "graphql": "^16.11.0"
+  }
+}
